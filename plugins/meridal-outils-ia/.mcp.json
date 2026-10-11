@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "meridal-releves": {
+      "type": "http",
+      "url": "https://meridal.fr/mcp"
+    }
+  }
+}

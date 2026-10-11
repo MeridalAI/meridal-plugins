@@ -1,0 +1,15 @@
+{
+  "name": "meridal",
+  "description": "Les plugins de Meridal, cabinet de conseil et de formation à l'IA pour les PME.",
+  "owner": {
+    "name": "Meridal",
+    "url": "https://meridal.fr/"
+  },
+  "plugins": [
+    {
+      "name": "meridal-outils-ia",
+      "source": "./plugins/meridal-outils-ia",
+      "description": "Choisir entre un abonnement d'IA d'équipe et l'API d'un modèle : la méthode de Meridal, avec les prix relevés et datés, et le serveur MCP de ses relevés."
+    }
+  ]
+}

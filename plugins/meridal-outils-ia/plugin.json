@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "meridal-outils-ia",
+  "version": "1.0.0",
+  "description": "Choisir entre un abonnement d'IA d'équipe et l'API d'un modèle : la méthode de Meridal, avec les prix relevés et datés, et le serveur MCP de ses relevés.",
+  "author": {
+    "name": "Meridal",
+    "url": "https://meridal.fr/"
+  },
+  "homepage": "https://meridal.fr/apprendre/releves-en-telechargement/",
+  "license": "MIT",
+  "keywords": [
+    "IA",
+    "abonnement",
+    "API",
+    "prix",
+    "PME",
+    "Meridal",
+    "MCP"
+  ]
+}
